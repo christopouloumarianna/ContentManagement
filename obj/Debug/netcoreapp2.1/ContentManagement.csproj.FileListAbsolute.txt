@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\bin\Debug\netcoreapp2.1\ContentManagement.deps.json
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\bin\Debug\netcoreapp2.1\ContentManagement.runtimeconfig.json
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\bin\Debug\netcoreapp2.1\ContentManagement.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\bin\Debug\netcoreapp2.1\ContentManagement.dll
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\bin\Debug\netcoreapp2.1\ContentManagement.pdb
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\obj\Debug\netcoreapp2.1\ContentManagement.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\obj\Debug\netcoreapp2.1\ContentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\obj\Debug\netcoreapp2.1\ContentManagement.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\obj\Debug\netcoreapp2.1\ContentManagement.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\obj\Debug\netcoreapp2.1\ContentManagement.dll
+C:\Users\Admin\source\repos\ContentManagement\ContentManagement\obj\Debug\netcoreapp2.1\ContentManagement.pdb
